@@ -7,6 +7,8 @@ El codigo realizado en arduino es el siguiente
 
 ![image](https://github.com/user-attachments/assets/ef873c2d-21c7-4457-8f66-dc135bb140a4)
 
+
+
 Luego le pedimos al sujeto de prueba que realizara una contracción del musculo hasta llegar a la fatiga con una pesa de 10kg, en total tuvimos 7 repeticiones. Con la señal capturada la agregamos a Spyder para empezar a realizar su análisis. la manera de pasarla fue con todos los vectores de voltaje, valor y tiempo para poder imprimir la señal exacta que teniamos en arduino, posterior a esto lo primero que hicimos fue limpiar un poco la señal eliminado el ruido en ella mediante el codigo, aplicamos un filtro pasa altas para deshacer los componentes de baja frecuencia, como el movimiento que podia tener la persona que o a la linea de base. Y un filtro pasa bajas para eliminar frecuencias altas no deseadas, como el ruido electromagnético o de interferencia de alta frecuencia. la frecuencia de muestreo con la que se trabajó fue : 250 Hz
 
 
@@ -27,10 +29,9 @@ Luego realizamos un fraccionamiento a esa señal de la ventana hanning, para pod
 ![image](https://github.com/user-attachments/assets/a6bc8a0d-afed-4bb9-8f62-cf6884f12895)
 ![image](https://github.com/user-attachments/assets/25f91e37-4443-4410-b8ec-e4bf8eb2b0e1)
 
-![image](https://github.com/user-attachments/assets/fb56d8e1-fa81-432c-a025-12d18f892a1c)
 
 ![image](https://github.com/user-attachments/assets/f612fb92-3ea6-4121-8372-2d1fe15962ac)
-
+![image](https://github.com/user-attachments/assets/fb56d8e1-fa81-432c-a025-12d18f892a1c)
 ![image](https://github.com/user-attachments/assets/ffc5e653-f82c-41a9-b5d4-0358b8ea3419)
 ![image](https://github.com/user-attachments/assets/f8ee16c9-dfbe-442f-8925-b91d4e5d637a)
 ![image](https://github.com/user-attachments/assets/93b3ee7b-a35a-4902-81c4-55ba7f09d2dd)
