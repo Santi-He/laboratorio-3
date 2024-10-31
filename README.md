@@ -22,6 +22,8 @@ Fugas espectrales: Esto ocurre cuando una señal discontinua en el dominio del t
 ![image](https://github.com/user-attachments/assets/3ad4b1e9-3a05-46de-9e88-1aa6275d9d9b)
 
 Luego realizamos un fraccionamiento a esa señal de la ventana hanning, para poder hacer el analisis espectral a cada contracción. cada fragmento de la señal representa un periodo de la actividad muscular, y los gráficos de FFT (Transformada Rápida de Fourier) muestran la distribución de frecuencias en cada segmento.
+
+
 ![image](https://github.com/user-attachments/assets/d5cfb90f-99bf-465c-9299-b2a0d5168363)
 ![image](https://github.com/user-attachments/assets/2ed60193-9317-4590-8032-f46576ebc6ff)
 ![image](https://github.com/user-attachments/assets/a4e85af6-0a00-4bf1-83f8-e70726152c3c)
@@ -32,6 +34,7 @@ Luego realizamos un fraccionamiento a esa señal de la ventana hanning, para pod
 
 ![image](https://github.com/user-attachments/assets/f612fb92-3ea6-4121-8372-2d1fe15962ac)
 ![image](https://github.com/user-attachments/assets/fb56d8e1-fa81-432c-a025-12d18f892a1c)
+![image](https://github.com/user-attachments/assets/e736c1bf-5dfb-48e2-8d02-24d5bc6ca00c)
 ![image](https://github.com/user-attachments/assets/ffc5e653-f82c-41a9-b5d4-0358b8ea3419)
 ![image](https://github.com/user-attachments/assets/f8ee16c9-dfbe-442f-8925-b91d4e5d637a)
 ![image](https://github.com/user-attachments/assets/93b3ee7b-a35a-4902-81c4-55ba7f09d2dd)
