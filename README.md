@@ -34,10 +34,11 @@ Luego realizamos un fraccionamiento a esa señal de la ventana hanning, para pod
 
 ![image](https://github.com/user-attachments/assets/f612fb92-3ea6-4121-8372-2d1fe15962ac)
 ![image](https://github.com/user-attachments/assets/fb56d8e1-fa81-432c-a025-12d18f892a1c)
-![image](https://github.com/user-attachments/assets/e736c1bf-5dfb-48e2-8d02-24d5bc6ca00c)
+![image](https://github.com/user-attachments/assets/ffc5e653-f82c-41a9-b5d4-0358b8ea3419)
+
 
 ![image](https://github.com/user-attachments/assets/f8ee16c9-dfbe-442f-8925-b91d4e5d637a)
-![image](https://github.com/user-attachments/assets/ffc5e653-f82c-41a9-b5d4-0358b8ea3419)
+![image](https://github.com/user-attachments/assets/e736c1bf-5dfb-48e2-8d02-24d5bc6ca00c)
 ![image](https://github.com/user-attachments/assets/93b3ee7b-a35a-4902-81c4-55ba7f09d2dd)
 
 
